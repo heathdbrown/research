@@ -17,3 +17,4 @@ Things to look at it or that interest me.
 - https://docs.microsoft.com/en-us/windows-server/virtualization/hyper-v/manage/remotely-manage-hyper-v-hosts
 - https://docs.microsoft.com/en-us/windows-server/virtualization/hyper-v/system-requirements-for-hyper-v-on-windows
 - https://blog.netspi.com/powershell-remoting-cheatsheet/
+- https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/what-port-does-powershell-remoting-use/ba-p/571480
