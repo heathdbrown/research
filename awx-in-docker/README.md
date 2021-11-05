@@ -5,4 +5,4 @@ I attempted to adjust the Makefile to utilize podman so I did not have to have d
 
 However, there are several different commands that utilize different parts of the docker cli.
 
-docker-auth in issue #
+docker-auth in issue https://github.com/heathdbrown/research/issues/23#issuecomment-961612639
