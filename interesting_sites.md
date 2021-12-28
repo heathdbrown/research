@@ -8,3 +8,4 @@
 |[Repl.it](https://replit.com/)|Python REPL in the browser|
 |[Git Ignore Generator](https://www.toptal.com/developers/gitignore)|Git ignore file generator|
 |[Growth Mindset HBR](https://hbr.org/2016/01/what-having-a-growth-mindset-actually-means)| HBR article on growth mindset|
+|[Awesome Network Automation](https://github.com/networktocode/awesome-network-automation)| Listing of network automation tools|
