@@ -11,4 +11,5 @@
 |[Awesome Network Automation](https://github.com/networktocode/awesome-network-automation)| Listing of network automation tools|
 |[Awesome Python](https://github.com/vinta/awesome-python#files)| Listing of Python libraries|
 |[Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)| Google Python Style Guide|
+|[Ansible Official Best Practice Guide](https://docs.ansible.com/ansible/latest/user_guide/playbooks_best_practices.html)|
 |[Ansible Style Guide](https://github.com/whitecloud/ansible-styleguide)| Ansible style guide|
