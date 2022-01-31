@@ -7,4 +7,4 @@ However, there are several different commands that utilize different parts of th
 
 docker-auth in issue https://github.com/heathdbrown/research/issues/23#issuecomment-961612639
 
-Changing gears to a suggested guide to just do docker ce instead of podman on WSL
+Changing gears to a suggested guide to just do docker ce instead of podman on WSL https://dev.to/bowmanjd/install-docker-on-windows-wsl-without-docker-desktop-34m9
