@@ -12,6 +12,7 @@
 
 # commands
 |Command|Purpose|
+|-------|-------|
 |kubectl taint nodes --all <node>| Removes 'taint' for master node to take on  additional duties in cluster|
 
 # References
