@@ -16,4 +16,5 @@
 |kubectl taint nodes --all <node>| Removes 'taint' for master node to take on  additional duties in cluster|
 
 # References
+- https://kubernetes.io/docs/tutorials/kubernetes-basics/
 - https://github.com/nigelpoulton/getting-started-k8s
