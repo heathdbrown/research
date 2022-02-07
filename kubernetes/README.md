@@ -22,6 +22,10 @@
 |-------|-------|
 |kubectl taint nodes --all <node>| Removes 'taint' for master node to take on  additional duties in cluster|
 
+# Jargon
+- monolith: large old/legacy application; does all kinds of things
+- microservices: small apps,  loosely coupled, deployed indepently.
+  
 # References
 - https://kubernetes.io/docs/tutorials/kubernetes-basics/
 - https://github.com/nigelpoulton/getting-started-k8s
