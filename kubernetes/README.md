@@ -25,6 +25,9 @@
 # Jargon
 - monolith: large old/legacy application; does all kinds of things
 - microservices: small apps,  loosely coupled, deployed indepently.
+- Deployment: description of service to deploy to k8s api
+- Pod: Compute Execution Layer in kubernetes for keeping coupled containers together that typically share resources.
+- Container: lowest layer and where the app runs
   
 # References
 - https://kubernetes.io/docs/tutorials/kubernetes-basics/
