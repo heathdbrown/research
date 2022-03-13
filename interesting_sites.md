@@ -13,3 +13,4 @@
 |[Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)| Google Python Style Guide|
 |[Ansible Official Best Practice Guide](https://docs.ansible.com/ansible/latest/user_guide/playbooks_best_practices.html)|
 |[Ansible Style Guide](https://github.com/whitecloud/ansible-styleguide)| Ansible style guide|
+|[Python Pattern Guides](https://python-patterns.guide/)| Brandon Rhodes Python Pattern Guides|
