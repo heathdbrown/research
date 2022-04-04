@@ -48,4 +48,13 @@ PIPX_HOME=/opt/pipx PIPX_BIN_DIR=/usr/local/bin pipx install --include-deps ansi
 # Add missing paramiko depedency
 source /opt/pipx/venvs/ansible/bin/activate
 (ansible) pip install paramiko --proxy http://proxy.com:80
+# verify depedency installed
+/opt/pipx/venvs/ansible/bin/python -m pip list
+# get out of venv environment
+exit
+# Add $PIPX_BIN_DIR (/usr/local/bin) to $PATH
+# vim ~/.bash_profile
+PATH=$PATH:/usr/local/bin
+# check to make sure pipx list ansible installation
+PIPX_HOME=/opt/pipx PIPX_BIN_DIR=/usr/local/bin pipx list
 ```
