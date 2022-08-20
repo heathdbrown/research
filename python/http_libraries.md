@@ -13,3 +13,4 @@
 * [RealPython Requests Tutorial](https://realpython.com/python-requests/)
 * [HTTP Overview](https://www.w3schools.com/tags/ref_httpmethods.asp)
 * [Python Client clients](https://www.scrapingbee.com/blog/best-python-http-clients/)
+* ![2022-08-20 15-39-38_pythonhttpclient_scrapingbee com](https://user-images.githubusercontent.com/618460/185765287-35a724e0-c700-4289-924a-9e31aa8fb2ea.png)
