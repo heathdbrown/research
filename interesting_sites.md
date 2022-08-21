@@ -14,3 +14,7 @@
 |[Ansible Official Best Practice Guide](https://docs.ansible.com/ansible/latest/user_guide/playbooks_best_practices.html)|
 |[Ansible Style Guide](https://github.com/whitecloud/ansible-styleguide)| Ansible style guide|
 |[Python Pattern Guides](https://python-patterns.guide/)| Brandon Rhodes Python Pattern Guides|
+|[Public APIs](https://publicapis.dev/) | Public APIs|
+|[HTTPBin](https://httpbin.org/)| API for testing methods against apis|
+|[REPLIT](https://replit.com)| browser IDE |
+|[CodeWars](https://codewars.com) | Coding practice |
