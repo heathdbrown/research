@@ -21,3 +21,13 @@ git config --global user.name "jonny"
 git config --global user.email "jonny@local"
 
 ./msfupdate
+
+
+
+## ERRORS
+
+```
+In Gemfile:
+  metasploit-framework was resolved to 6.2.23, which depends on
+    sqlite3
+```
