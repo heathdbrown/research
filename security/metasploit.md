@@ -31,3 +31,5 @@ In Gemfile:
   metasploit-framework was resolved to 6.2.23, which depends on
     sqlite3
 ```
+https://github.com/rapid7/metasploit-framework/issues/8765
+sudo apt install -y libsqlite0-dev 
