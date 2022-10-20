@@ -1,3 +1,5 @@
+## Metasploit
+
 # https://blog.eldernode.com/install-and-use-metasploit-on-ubuntu/
 
 sudo apt install -y curl gpgv2 autoconf bison build-essential postgresql libaprutil1 libgmp3-dev libpcap-dev openssl libpq-dev libreadline6-dev libsqlite3-dev libssl-dev locate libsvn1 libtool libxml2 libxml2-dev libxslt-dev wget libyaml-dev ncurses-dev  postgresql-contrib xsel zlib1g zlib1g-dev ruby-dev
@@ -22,7 +24,9 @@ git config --global user.email "jonny@local"
 
 ./msfupdate
 
-
+# Docs
+* https://docs.metasploit.com/
+* https://tryhackme.com/room/metasploitintro
 
 ## ERRORS
 
