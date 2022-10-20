@@ -7,10 +7,17 @@ mkdir ~/apps
 cd ~/apps
 
 git clone https://github.com/rapid7/metasploit-framework.git
+
 cd metasploit-framework/
+
 sudo gem install bundler
+
 bundle install
+
 ./msfconsole
+
 git config --global user.name "jonny"
+
 git config --global user.email "jonny@local"
+
 ./msfupdate
