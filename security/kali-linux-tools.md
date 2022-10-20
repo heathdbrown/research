@@ -38,7 +38,7 @@ pipx install git+https://gitlab.com/kalilinux/packages/xsser.git
 pipx list
 
 # typically here
-~/.local/pipx/venvs/xsser/bin
+cd ~/.local/pipx/venvs/xsser/bin
 source activate # get into the veenv
 
 sudo apt install firefoxdriver -yq # selenium driver for firewfox
