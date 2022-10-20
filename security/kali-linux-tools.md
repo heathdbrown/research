@@ -1,10 +1,14 @@
 https://kali.org/tools
 
-dirb wordlist: https://github.com/v0re/dirb/blob/master/wordlists/common.txt
+# dirb 
+- SecLists
+wordlist: https://github.com/v0re/dirb/blob/master/wordlists/common.txt
 
-SecLists - https://github.com/danielmiessler/SecLists
+# SecLists 
+- https://github.com/danielmiessler/SecLists
 
-dirsearch - https://github.com/maurosoria/dirsearch
+# dirsearch 
+- https://github.com/maurosoria/dirsearch
 
 ```bash
 sudo apt install python3.8-venv
@@ -22,4 +26,24 @@ pipx install git+https://github.com/psf/black.git
 pipx install git+https://github.com/psf/black.git@branch  # branch of your choice
 pipx install git+https://github.com/psf/black.git@ce14fa8b497bae2b50ec48b3bd7022573a59cdb1  # git hash
 pipx install https://github.com/psf/black/archive/18.9b0.zip  # install a release
+```
+
+# xsser 
+- https://www.kali.org/tools/xsser/
+
+```bash
+pipx install git+https://gitlab.com/kalilinux/packages/xsser.git
+
+# tricky part find the pipx venvs
+pipx list
+
+# typically here
+~/.local/pipx/venvs/xsser/bin
+source activate # get into the veenv
+
+sudo apt install firefoxdriver -yq # selenium driver for firewfox
+sudo apt install libcurl4-gnutls-dev -yq #  needed for pycurl curl-config
+
+python3 -m pip install pycurl bs4 pygeoip gobject cairocffi selenium
+
 ```
