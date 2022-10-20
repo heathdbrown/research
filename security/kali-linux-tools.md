@@ -41,7 +41,7 @@ pipx list
 cd ~/.local/pipx/venvs/xsser/bin
 source activate # get into the veenv
 
-sudo apt install firefoxdriver -yq # selenium driver for firewfox
+sudo apt install python3-pycurl python3-bs4 python3-geoip python3-gi python3-cairocffi python3-selenium firefoxdriver -yq # selenium driver for firewfox
 sudo apt install libcurl4-gnutls-dev -yq #  needed for pycurl curl-config
 
 python3 -m pip install pycurl bs4 pygeoip gobject cairocffi selenium
