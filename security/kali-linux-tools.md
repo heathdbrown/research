@@ -31,8 +31,23 @@ pipx install https://github.com/psf/black/archive/18.9b0.zip  # install a releas
 # Damn Small XSS Scanner
 - https://github.com/stamparm/DSXS
 ```bash
-pipx install git+https://github.com/stamparm/DSXS.git
+git clone https://github.com/stamparm/DSXS.git
+cd DSXS
+chmod 700 dsxs.py
 
+./dsxs.py -u "http://localhost/url?param=1" --data 'param2=1' --cookie 'SessionId=123123123123' 
+```
+
+# XSStrike
+- https://github.com/s0md3v/XSStrike.git
+
+```bash
+git clone https://github.com/s0md3v/XSStrike.git
+cd XSStrike
+python3 -m venv .venv
+source .venv/bin/activate
+python3 -m pip install -r requirements.txt
+python3 ./xsstrike.py -u http://target/url --crawl --blind
 ```
 
 # xsser 
