@@ -28,6 +28,13 @@ pipx install git+https://github.com/psf/black.git@ce14fa8b497bae2b50ec48b3bd7022
 pipx install https://github.com/psf/black/archive/18.9b0.zip  # install a release
 ```
 
+# Damn Small XSS Scanner
+- https://github.com/stamparm/DSXS
+```bash
+pipx install git+https://github.com/stamparm/DSXS.git
+
+```
+
 # xsser 
 - https://www.kali.org/tools/xsser/
 
