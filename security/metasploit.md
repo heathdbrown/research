@@ -24,6 +24,54 @@ git config --global user.email "jonny@local"
 
 ./msfupdate
 
+# Database setup
+- https://fedoraproject.org/wiki/Metasploit_Postgres_Setup
+- https://docs.rapid7.com/metasploit/no-database-connection/
+
+```bash
+sudo apt install postgresql-all postgresql-client -y
+sudo su postgres
+createuser msf_user -P # setup password and remember it
+createdb --owner=msf_user msf_database
+exit
+```
+
+Go back to metasplioit
+```bash
+msf>db_status
+msf>db_connect msf_user:password@127.0.0.1:5432/msf_database
+
+```
+
+```bash
+msf>help database
+msf>hosts
+msf>loot
+msf>services
+msf>vulns
+```
+
+# Metasploit Usage
+- https://www.offensive-security.com/metasploit-unleashed/msfconsole/
+```bash
+msf>setg RHOSTS <target list>
+msf>setg RPORT <target port>
+msf>tips
+```
+
+- https://www.offensive-security.com/metasploit-unleashed/wmap-web-scanner/
+```bash
+msf>load wmap
+msf>wmap_sites -h
+msf>wmap_sites -a <target_site>
+msf>wmap_sites -l
+msf>wmap_targets -h
+msf>wmap_targets -t <target_site_url>
+msf>wmap_run -e
+msf>wmap_vulns -l
+msf>vulns
+```
+
 # Docs
 * https://docs.metasploit.com/
 * https://tryhackme.com/room/metasploitintro
