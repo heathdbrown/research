@@ -10,8 +10,8 @@ sudo apt install dirb -yq
 curl https://raw.githubusercontent.com/v0re/dirb/master/wordlists/common.txt --output common.txt
 
 
-dirb <Target URL/PATH> common.txt 
-dirb <Target URL> common.txt,dirlist.txt #dirlist has PATHs
+dirb <Target URL/PATH> common.txt -c '<cookie id>=<cookie value>'
+dirb <Target URL> common.txt,dirlist.txt -c '<cookie id>=<cookie value>'#dirlist has PATHs 
 ```
 
 # SecLists 
