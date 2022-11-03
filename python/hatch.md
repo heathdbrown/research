@@ -3,4 +3,22 @@
 
 Found this one when reading through: https://packaging.python.org/en/latest/tutorials/managing-dependencies/
 
-https://ofek.dev/hatch/latest/
+https://hatch.pypa.io/latest/
+
+# Installation
+
+```console
+pipx install hatch
+```
+
+# Usage
+
+## New Project
+```console
+hatch new "new project"
+```
+
+## Existing Project
+```console
+hatch new --init
+```
