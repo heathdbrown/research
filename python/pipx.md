@@ -3,6 +3,13 @@
 
 Install packaged python applications into isolated virtualenvs.
 
+# Installation
+
+```console
+python -m pip install --user pipx
+```
+
+
 ## Things to remember NOT in the docs
 
 ### Cannot determine package name from '.'. Check package spec for errors.
