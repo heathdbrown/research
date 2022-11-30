@@ -11,3 +11,6 @@
     - Windows Virtualization Platform
     - Windows Subsystem for Linux
 - Disable Windows Memory Integrity
+
+## Windows Terminal in GNS3
+- https://github.com/GNS3/gns3-gui/issues/3193
