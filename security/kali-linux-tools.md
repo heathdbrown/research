@@ -70,6 +70,7 @@ source activate # get into the veenv
 
 sudo apt install python3-pycurl python3-bs4 python3-geoip python3-gi python3-cairocffi python3-selenium firefoxdriver -yq # selenium driver for firewfox
 sudo apt install libcurl4-gnutls-dev -yq #  needed for pycurl curl-config
+sudo apt-get install libgnutls28-dev # https://stackoverflow.com/questions/46290556/installing-pycurl-with-fatal-error-gnutls-gnutls-h-no-such-file-or-directory
 
 python3 -m pip install pycurl bs4 pygeoip gobject cairocffi selenium
 
