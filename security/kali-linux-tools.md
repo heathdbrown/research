@@ -72,6 +72,11 @@ sudo apt install python3-pycurl python3-bs4 python3-geoip python3-gi python3-cai
 sudo apt install libcurl4-gnutls-dev -yq #  needed for pycurl curl-config
 sudo apt-get install libgnutls28-dev # https://stackoverflow.com/questions/46290556/installing-pycurl-with-fatal-error-gnutls-gnutls-h-no-such-file-or-directory
 
+# firefox driver is now geckodriver
+- https://github.com/mozilla/geckodriver/releases
+- https://www.amirootyet.com/post/selenium-with-python-using-geckodriver/
+- Download latest firefox version for Linux 64 bit https://www.mozilla.org/en-US/firefox/all/#product-desktop-release
+
 python3 -m pip install pycurl bs4 pygeoip gobject cairocffi selenium
 
 ```
