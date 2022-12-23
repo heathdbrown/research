@@ -16,5 +16,7 @@
 |[Python Pattern Guides](https://python-patterns.guide/)| Brandon Rhodes Python Pattern Guides|
 |[Public APIs](https://publicapis.dev/) | Public APIs|
 |[HTTPBin](https://httpbin.org/)| API for testing methods against apis|
-|[REPLIT](https://replit.com)| browser IDE |
 |[CodeWars](https://codewars.com) | Coding practice |
+|[shellexplained](https://explainshell.com/) | Explains shell commands |
+|[Data Science at the Command Line](https://datascienceatthecommandline.com/) | Covers cli commands and techniques for using the shell for data science and in general being better at the cli |
+|[RedHat IP Command Cheat Sheet](https://access.redhat.com/sites/default/files/attachments/rh_ip_command_cheatsheet_1214_jcs_print.pdf) | IP Command cheat sheet |
