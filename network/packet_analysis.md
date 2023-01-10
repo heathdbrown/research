@@ -13,3 +13,14 @@
 # Sample Captures
 - https://packetlife.net/captures/
 - https://wiki.wireshark.org/SampleCaptures#sample-captures
+
+# Example of using pyshark:
+- https://thepacketgeek.com/pyshark/packet-object/
+
+# Video on pyshark
+- https://www.youtube.com/watch?v=VIxq-iwX4SQ
+
+
+# EXample of using Quokka
+- https://github.com/chuckablack/quokka
+- https://www.youtube.com/watch?v=GaCzFcW8Tm4&list=PLKZjLeG8AwtEYEQjYVBzX7XJHXni39106
