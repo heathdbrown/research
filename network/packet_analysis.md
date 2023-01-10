@@ -4,6 +4,10 @@
 - scapy - https://scapy.net/
 - pyshark - https://github.com/KimiNewt/pyshark
 
+## Using sharkd JSON-RPC
+- https://www.youtube.com/watch?v=MtUPHAAWM-g
+- https://github.com/credible58/papr/tree/main
+
 ## Exmaple code use using different python libraries
 - https://github.com/nowfelunr/pcap-reader/
 
