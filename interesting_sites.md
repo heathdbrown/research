@@ -20,3 +20,4 @@
 |[shellexplained](https://explainshell.com/) | Explains shell commands |
 |[Data Science at the Command Line](https://datascienceatthecommandline.com/) | Covers cli commands and techniques for using the shell for data science and in general being better at the cli |
 |[RedHat IP Command Cheat Sheet](https://access.redhat.com/sites/default/files/attachments/rh_ip_command_cheatsheet_1214_jcs_print.pdf) | IP Command cheat sheet |
+|(Python for network engineering)[https://pyneng.readthedocs.io/]| Python for network engineering site|
