@@ -13,7 +13,7 @@ Resources
 Resources
 - https://www.crunchbase.com/
 - https://aleph.occrp.org/
-- Recon GPT
+- https://www.typingmind.com/
 
 ## Ad and Analytics
 - Review tracking codes and other tools that target might use to track users
