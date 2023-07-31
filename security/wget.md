@@ -35,3 +35,9 @@ function wgetspider {
     wget -r --no-parent --spider -U "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.183" https://$1 2>&1 | tee $1.log
 }
 ```
+
+Gathering all urls from the $1.log
+
+```bash
+cat '^---' $1.log | awk '{print $NF}' | sort | uniq > urls.txt
+```
