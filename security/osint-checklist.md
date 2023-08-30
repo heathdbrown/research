@@ -75,3 +75,4 @@ Resources:
 - https://www.youtube.com/watch?v=-jLbRnmGYaA 
 - https://github.com/riramar/Web-Attack-Cheat-Sheet
 - https://www.hackerone.com/ethical-hacker/100-hacking-tools-and-resources
+- https://github.com/nahamsec/recon_profile/blob/master/.bash_profile 
