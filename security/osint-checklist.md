@@ -74,3 +74,4 @@ Resources:
 - https://blog.appsecco.com/a-penetration-testers-guide-to-sub-domain-enumeration-7d842d5570f6 
 - https://www.youtube.com/watch?v=-jLbRnmGYaA 
 - https://github.com/riramar/Web-Attack-Cheat-Sheet
+- https://www.hackerone.com/ethical-hacker/100-hacking-tools-and-resources
