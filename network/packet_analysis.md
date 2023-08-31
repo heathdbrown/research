@@ -4,6 +4,20 @@
 - scapy - https://scapy.net/
 - pyshark - https://github.com/KimiNewt/pyshark
 
+## Tools to use with Wireshark
+>https://www.youtube.com/watch?v=KYxVYtZO5yU
+- NetworkMiner
+- zeek
+- nfdump
+- suricata
+- brim
+
+- CyberChef
+- PackeTotal
+- A-Packets
+- Packetor
+- TLS/Quic Illulstrated
+
 ## Using sharkd JSON-RPC
 - https://www.youtube.com/watch?v=MtUPHAAWM-g
 - https://github.com/credible58/papr/tree/main
