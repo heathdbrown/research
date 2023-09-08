@@ -11,12 +11,14 @@
 - nfdump
 - suricata
 - brim
-
 - CyberChef
 - PackeTotal
 - A-Packets
 - Packetor
 - TLS/Quic Illulstrated
+
+## Wireshark Profiles
+- https://github.com/amwalding/wireshark_profiles
 
 ## Using sharkd JSON-RPC
 - https://www.youtube.com/watch?v=MtUPHAAWM-g
