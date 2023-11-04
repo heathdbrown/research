@@ -1,20 +1,17 @@
 # research
 Things to look at it or that interest me.
 
-## Raspberry Pi
-- https://hackaday.com/2020/12/26/3d-printed-server-case-holds-14-raspberry-pis/
-
-## Tinkerbell
-> Bare-metal provisioning service from Equinix Metal aka Packet
-- https://docs.tinkerbell.org/
-
-## Terraform
-> Provisioning by Hashi Corp
-- https://blog.gruntwork.io/why-we-use-terraform-and-not-chef-puppet-ansible-saltstack-or-cloudformation-7989dad2865c
-
-## Hyper-V Remote Management
-> Remotely managing Hyper-V environments
-- https://docs.microsoft.com/en-us/windows-server/virtualization/hyper-v/manage/remotely-manage-hyper-v-hosts
-- https://docs.microsoft.com/en-us/windows-server/virtualization/hyper-v/system-requirements-for-hyper-v-on-windows
-- https://blog.netspi.com/powershell-remoting-cheatsheet/
-- https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/what-port-does-powershell-remoting-use/ba-p/571480
+|topic|Location|
+|-----|--------|
+|aws|[../aws](https://github.com/heathdbrown/research/blob/main/aws.md)|
+|git|[../git](https://github.com/heathdbrown/research/blob/main/git.md)|
+|Interesting Sites|[..interesting_sites](https://github.com/heathdbrown/research/blob/main/interesting_sites.md)|
+|ventoy|[../ventoy](https://github.com/heathdbrown/research/blob/main/ventoy.md)|
+|virtualbox|[../virtualbox](https://github.com/heathdbrown/research/blob/main/virtualbox.md)|
+|kubernetes|[../kubernetes](https://github.com/heathdbrown/research/tree/main/kubernetes)|
+|network|[../network](https://github.com/heathdbrown/research/tree/main/network)|
+|python|[../python](https://github.com/heathdbrown/research/tree/main/python)|
+|security|[../security](https://github.com/heathdbrown/research/tree/main/security)|
+|shell|[..shell](https://github.com/heathdbrown/research/tree/main/shell)|
+|software_architecture|[../software_architecture](https://github.com/heathdbrown/research/tree/main/software_architecture)|
+|Podcasts|[../this-week-in-podcasting](https://github.com/heathdbrown/research/tree/main/this-week-in-podcasting)|
