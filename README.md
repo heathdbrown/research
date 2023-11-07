@@ -3,6 +3,7 @@ Things to look at it or that interest me.
 
 |topic|Location|
 |-----|--------|
+|Cisco Data Center Licensing| [wiki](https://github.com/heathdbrown/research/wiki/Cisco-Data-Center-Licensing)
 |aws|[../aws](https://github.com/heathdbrown/research/blob/main/aws.md)|
 |git|[../git](https://github.com/heathdbrown/research/blob/main/git.md)|
 |Interesting Sites|[..interesting_sites](https://github.com/heathdbrown/research/blob/main/interesting_sites.md)|
