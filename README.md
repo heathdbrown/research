@@ -3,6 +3,7 @@ Things to look at it or that interest me.
 
 |Date|topic|Location|
 |----|-----|--------|
+|2024-09-07|Hurl|[Hurl](https://github.com/heathdbrown/research/wiki/Hurl-for-Curl)
 ||Cisco Data Center Licensing| [wiki](https://github.com/heathdbrown/research/wiki/Cisco-Data-Center-Licensing)
 ||aws|[../aws](https://github.com/heathdbrown/research/blob/main/aws.md)|
 |2024-09-07|Git|[Git](https://github.com/heathdbrown/research/wiki/Git)|
