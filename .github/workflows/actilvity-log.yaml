@@ -1,0 +1,15 @@
+name: Update files with commit
+
+on:
+  gollum
+
+jobs:
+  update-activity:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Update GitHub Activity
+        uses: TheDanniCraft/activity-log@v1
+        with:
+          GITHUB_USERNAME: "heathdbrown"
+          GITHUB_TOKEN: ${{ secrets.TOKEN }} # Ensure this matches the secret name in repository settings
