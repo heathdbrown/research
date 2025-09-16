@@ -1,3 +1,18 @@
+# tshark
+```bash
+tshark -r input.pcapng -Tfields -e ip.src -e ip.dst -e tcp.analysis.flags | grep 1$
+# source, destination, and then also having the analysis flags
+172.27.81.41    1.1.1.1  1
+172.27.81.41    1.1.1.1   1
+172.27.81.41    1.1.1.1   1
+172.27.81.41    1.1.1.1   1
+172.27.81.41    1.1.1.1   1
+172.27.81.41    1.1.1.1   1
+172.27.81.41    1.1.1.1   1
+172.27.81.41    1.1.1.1   1
+172.27.81.41    1.1.1.1   1
+```
+
 # using python for packet analysis
 - pypacker - https://gitlab.com/mike01/pypacker/-/blob/master/README.md
 - dpkt - https://dpkt.readthedocs.io/en/latest/

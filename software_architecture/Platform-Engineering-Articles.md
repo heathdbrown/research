@@ -1,0 +1,1 @@
+- [DevOps is BS](https://blog.massdriver.cloud/posts/devops-is-bullshit/)
