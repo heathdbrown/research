@@ -16,5 +16,23 @@ I settled on agent-conters (see references).
 
 side note: I run rootless docker and there are some quirks that need to be addressed with that setup I had to modify the 'command' script I was running 'open-code' and the open-code/Dockerfile for the correct persimissions set to write back to the host.
 
+# AGent-containers errors
+
+## Error 
+```bash
+EACCES: permission denied, mkdir '/home/node/.local/share/opencode/log'
+    path: "/home/node/.local/share/opencode/log",
+ syscall: "mkdir",
+   errno: -13,
+    code: "EACCES"
+
+
+Bun v1.3.13 (Linux x64 baseline)
+```
+
+## Solution
+- modify open-code/Dockerfile to run as root and use the auto mapping feature of rootless docker
+- Remove the --user from the docker run command
+
 # References
 - https://github.com/faileon/agent-containers/blob/main/open-code/README.md
