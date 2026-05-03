@@ -14,7 +14,7 @@ The container would execute, however, opencode would never initialize and I woul
 
 I settled on agent-conters (see references).
 
-side note: I run rootless docker and there are some quirks that need to be addressed with that setup I had to modify the 'command' script I was running 'open-code' and the open-code/Dockerfile for the correct persimissions set to write back to the host.
+side note: I run rootless docker and there are some quirks that need to be addressed with that setup I had to modify the the open-code/Dockerfile to run as ROOT so that the rootless docker would user mapping would work properly.
 
 # AGent-containers errors
 
